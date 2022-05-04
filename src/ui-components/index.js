@@ -4,7 +4,11 @@
  * Any changes to this file will be overwritten when running amplify pull. *
  **************************************************************************/
 
+export { default as Arrow } from "./Arrow";
+export { default as Frame41 } from "./Frame41";
 export { default as FormCheckout } from "./FormCheckout";
+export { default as Frame7 } from "./Frame7";
+export { default as Frame3 } from "./Frame3";
 export { default as HeroLayout4 } from "./HeroLayout4";
 export { default as ProductDetail } from "./ProductDetail";
 export { default as SocialPost } from "./SocialPost";
@@ -16,22 +20,30 @@ export { default as ItemCard } from "./ItemCard";
 export { default as MarketingFooter } from "./MarketingFooter";
 export { default as ActionCard } from "./ActionCard";
 export { default as MarketingPricing } from "./MarketingPricing";
+export { default as Frame42 } from "./Frame42";
 export { default as ContactUs } from "./ContactUs";
+export { default as Frame2 } from "./Frame2";
 export { default as EditProfile } from "./EditProfile";
 export { default as SideBar } from "./SideBar";
+export { default as LPbutton } from "./LPbutton";
 export { default as HeroLayout3 } from "./HeroLayout3";
 export { default as Features2x2 } from "./Features2x2";
 export { default as FAQItem } from "./FAQItem";
 export { default as Features2x3 } from "./Features2x3";
+export { default as Frame5 } from "./Frame5";
 export { default as HomeCardCollection } from "./HomeCardCollection";
 export { default as HeroLayout1 } from "./HeroLayout1";
 export { default as FeaturesText2x2 } from "./FeaturesText2x2";
 export { default as Features4x1 } from "./Features4x1";
+export { default as Frame1 } from "./Frame1";
+export { default as Frame8 } from "./Frame8";
 export { default as HomeCard } from "./HomeCard";
 export { default as HeroLayout2 } from "./HeroLayout2";
 export { default as NavBar } from "./NavBar";
 export { default as MyIcon } from "./MyIcon";
+export { default as Headerlogo } from "./Headerlogo";
 export { default as StandardCard } from "./StandardCard";
 export { default as CommentCard } from "./CommentCard";
+export { default as Frame6 } from "./Frame6";
 export { default as ProductCard } from "./ProductCard";
 export { default as studioTheme } from "./studioTheme";
